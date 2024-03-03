@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Meteorology Project 👋</h1>
-# Meteorology Project
+## Meteorology Project
 
 In this repository, we are working on a detailed weather project with Python and API, which we will analyze later.
 
